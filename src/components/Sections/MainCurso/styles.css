@@ -1,0 +1,93 @@
+#container {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+#MainCurso {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  padding: 24px;
+  margin: 0 auto;
+  min-height: 520px;
+  margin-top: 95px;
+  background-position-y: -24px;
+  background-color: var(--background-nav-mobile);
+  background-repeat: no-repeat;
+  background-position-x: right;
+
+}
+#MainCurso .column-1{
+  display: flex;
+  flex-direction: column;
+  color: var(--text-color-light);
+  width: 60%;
+  min-height: inherit;
+  padding: 0px 24px 0px 24px;
+  justify-content: center;
+}
+#MainCurso .column-1 p{ 
+  font-size: 16px;
+  margin: 6px auto;
+}
+#MainCurso .column-1 h2{
+  color: var(--title-color-light);
+  margin-bottom: 10px;
+  font-size: 2.2rem;
+}
+#MainCurso .column-1 p{
+  text-align: justify;
+}
+#MainCurso .button-holder{
+  margin-top: 20px;
+  padding: 0px 40px;
+}
+
+#MainCurso .buttonSubmit{
+  background-color: var(--btn-submit);
+    padding: 12px;
+    border-radius: 6px;
+    width: 300px;
+    height: 50px;
+    color: var(--text-color-light);
+    font-size: 1.1rem;
+    text-align: center;
+    border: 0;
+    margin: 15px auto;
+    -ms-grid-column-align: center;
+        justify-self: center;
+    font-weight: bold;
+}
+@media only screen and (max-width: 425px) {
+  #MainCurso {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: justify;
+    margin-top: 0px;
+    padding: 0px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-color: var(--background-nav-mobile);
+    background-size: contain;
+  }
+  #MainCurso .column-1{
+    width: 90%;
+    padding: 0px 24px 0px 24px;
+
+  justify-content: flex-end;
+  }
+  #MainCurso .column-1 h2{
+    text-align: left;
+  }
+}

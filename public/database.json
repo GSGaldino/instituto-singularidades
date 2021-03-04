@@ -1,0 +1,1310 @@
+{
+    "IES": {
+      "name": "Instituto Singularidades",
+      "logo": "../img/SVG/logo.svg",
+      "logoNegative": "../img/SVG/logoNegative.svg",
+      "DesktopBanner":"../img/Banners/BannerHomeDesktop.webp",
+      "MobileBanner":"../img/Banners/BannerHomeMobile.webp",
+      "email": "posead@singularidades.com.br",
+      "tel": "(11) 3375-0044 Ramal 273",
+      "whatsapp": "(11) 97121-1053",
+      "social": {
+        "facebook": "https://facebook.com/singuraridades/",
+        "twitter": "https://twiter.com/singularidades_",
+        "instagram": "https://www.instagram.com/institutosingularidades/",
+        "linkedin": "https://www.linkedin.com/school/instituto-singularidades/"
+      }
+    },
+    "Professores": [
+      {
+        "id": 1,
+        "name": "Profª.Drª. Antonieta Megale",
+        "Slug": "../Prof/Antonieta-Megale",
+        "description": "Antonieta Megale é doutora em Linguística Aplicada pela Unicamp (2017) e mestre em Linguística Aplicada e Estudos da Linguagem pela PUC-SP (2012). Também é pedagoga e bacharel em Comunicação Social. Desde 2011, é coordenadora e professora no curso de Pós-Graduação do Instituto Singularidades, Educação Bilíngue: desafios e possibilidades. Sua atuação inclui segmentos como educação bilíngue, ensino aprendizagem de língua estrangeira, identidades, multiculturalismo, multiletramentos e metodologias de pesquisa científica. Além disso, sua experiência engloba assessoria de escolas bilíngues e regulares, também atua na elaboração e revisão de materiais didáticos de língua inglesa para educação infantil, fundamental I e II e ensino médio.",
+        "img_url": "../img/Professores/AntonietaMegale.webp",
+        "Cursos": [
+          "MEB",
+          "ESC",
+          "PPB"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Dra. Paola Salimen",
+        "Slug": "../Prof/Paola-Salimen",
+        "description": "Paola Salimen é graduada em Letras Licenciatura pela UFRGS (2006), possui mestrado em Letras pela UFRGS (2009) e doutorado em Programa de Pós-Graduação em Letras pela UFRGS (2016). Sua atuação concentra-se nos seguintes temas: interação, análise da conversa, aprendizagem, sala de aula de língua estrangeira e pedidos de ajuda.",
+        "img_url": "../img/Professores/PaolaSalimen.webp",
+        "Cursos": [
+          "MEB"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Profa. Ma. Vivian Marcondes",
+        "Slug": "../Prof/Vivian-Marcondes",
+        "description": "É doutoranda Linguística Aplicada e Estudos da Linguagem (PUC-SP); Mestre em Linguística Aplicada e Estudos da Linguagem (PUC-SP); pós-graduada em Fundamentos do Ensino da Matemática (Mathema); pós-graduada em Psicopedagogia (Universidade Metodista); graduada em Pedagogia. Atuante há 22 anos como professora, em escolas da rede particular e pública de São Paulo. Formadora de professores em cursos de extensão.",
+        "img_url": "../img/Professores/VivianMarcondes.webp",
+        "Cursos": [
+          "MEB"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Dra. Renata Condi",
+        "Slug": "../Prof/Renata-Condi",
+        "description": "Renata Condi é doutora e mestre em Linguística Aplicada e Estudos da Linguagem, pela PUC-SP. Possui graduação em Letras - Licenciatura em Inglês e em Letras - Bacharelado em Tradução (PUC-SP), além de uma graduação em Pedagogia (UFSCar). Desde 1993, atua como professora, coordenadora e assessora em diferentes segmentos educacionais na área de línguas estrangeiras.",
+        "img_url": "../img/Professores/RenataCondi.webp",
+        "Cursos": [
+          "MEB",
+          "PPB"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Adriessa Santos",
+        "Slug": "../Prof/Adriessa-Santos",
+        "description": "Mestre em Ciências pela Universidade de São Paulo, com especializações em Neuroeducação e Educação Sistêmica. É Bióloga pela Universidade de Mogi das Cruzes. Atua como neuroeducadora, coordenadora pedagógica na rede de ensino regular privada e docente de cursos técnicos e de pós-graduação. Atualmente é a coordenadora do curso de Pós-graduação em Neurociência na escola do Instituto Singularidades.",
+        "img_url": "../img/Professores/AdriessaSantos.webp",
+        "Cursos": [
+          "MEB",
+          "PSP",
+          "ESC"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Ms. Felicia Jennings",
+        "Slug": "../Prof/Felicia-Jennings",
+        "description": "Felicia Jennings-Winterle é formada em Educação Artística - Música pela Faculdade Santa Marcelina, é especialista em Educação Psicomotora (ISPE-GAE) e em musicalização infantil (UNISA). Mestre em Educação Musical com ênfase em Cognição pela New York University. Atuou na primeira pré-escola brasileira nos EUA, nos anos de 2009 a 2014, com o desenvolvimento de material didático e filosofia específicos ao ensino do PLH.",
+        "img_url": "../img/Professores/FeliciaJennings.webp",
+        "Cursos": [
+          "MEB"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Ms. Camila Dias",
+        "Slug": "../Prof/Camila-Dias",
+        "description": "Camila Dias é formada em Letras (USP) e possui mestrado em Linguística Aplicada pela PUC. Tem experiência como professora e coordenadora há mais de 15 anos, atualmente atua como professora de Inglês como língua adicional no Colégio Santa Cruz e também no Instituto Singularidades como docente da pós-graduação em Educação Bilíngue.",
+        "img_url": "../img/Professores/CamilaDias.webp",
+        "Cursos": [
+          "MEB"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Dra. Fernanda Liberali",
+        "Slug": "../Prof/Fernanda-Liberali",
+        "description": "Fernanda Liberali possui doutorado em Lingüística Aplicada e Estudos da Linguagem pela PUC-SP (1999). É professora-pesquisadora FORMEP pela PUC-SP",
+        "img_url": "../img/Professores/FernandaLiberali.webp",
+        "Cursos": [
+          "MEB"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Profa. Esp. Ingrid Puche",
+        "Slug": "../Prof/Ingrid-Puche",
+        "description": "Pós-graduada em Educação Bilíngue pelo Instituto Singularidades e bacharel e licenciada em Letras - Inglês e Português - pela Universidade de São Paulo (USP). Certificada em Design, Assessment and Management of Project-based Learning pelo Buck Institute for Education. Há 10 anos atua na área da educação bilíngue, no Brasil e em outros países, como professora, pesquisadora e formadora de professores. Suas principais áreas de pesquisa são educação bilíngue, metodologias ativas e integração curricular.",
+        "img_url": "../img/Professores/IngridPuche.webp",
+        "Cursos": [
+          "MEB",
+          "PPB"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Profa. Esp. Gladys Lopes",
+        "Slug": "../Prof/Gladys-Lopes",
+        "description": "Pedagoga, é pós-graduada em Educação Bilíngue: desafios e possibilidades e em Gestão da Educação no novo milênio, ambas pelo Instituto Singularidades. Possui experiência como professora, coordenadora pedagógica, orientadora educacional e assessora em processos pedagógicos em diversas instituições públicas e privadas. Atualmente é coordenadora e responsável pela formação pedagógica dos alunos de graduação e pós-graduação do Projeto de Extensão Universitária Biocientista Mirim (Instituto de Ciências Biomédicas da Universidade de São Paulo – USP), formadora do School Training Program de uma rede de escolas bilíngues, coordenadora pedagógica do Integral de uma escola particular e professora no curso de pós graduação EAD: Metodologia e práticas para Educação Bi-multilíngue no Instituto Singularidades. Seus interesses de pesquisa são nas áreas de Educação Bilíngue, integração curricular e interdisciplinaridade e formação de coordenadores pedagógicos e professores.",
+        "img_url": "../img/Professores/GladysLope.webp",
+        "Cursos": [
+          "MEB",
+          "PPB"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Alcione Piva",
+        "Slug": "../Prof/Alcione-Piva",
+        "description": "Doutoranda em Educação e Saúde pela UNIFESP, professora da Educação Básica com 20 anos de experiência na docência para crianças e jovens de escolas públicas e particulares. Bióloga formada pela Universidade Mackenzie. Mestra em Biodiversidade pelo Instituto Biológico – SP e especialista em Inclusão pelo Instituto Singularidades. Atualmente, além de professora, atua como formadora e coordenadora de projetos de formação de professores pelo Instituto Singularidades.",
+        "img_url": "../img/Professores/AlcionePiva.webp",
+        "Cursos": [
+          "PSP"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Angela Di Paolo Mota",
+        "Slug": "../Prof/Angela-Di-Paolo",
+        "description": "Doutora e mestre em Psicologia Escolar e do Desenvolvimento Humano/USP. Graduada em Psicologia pela Universidade Federal do Pará (2007). Pesquisadora do Grupo de Pesquisa do CNPq “Transtornos do espectro de autismo: detecção de sinais iniciais e intervenção”. Professora do curso de Pedagogia do Instituto Singularidades desde 2014.",
+        "img_url": "../img/Professores/AngelaDiPaolo.webp",
+        "Cursos": [
+          "PSP"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Sofia Magalhães Regis de Alencastro",
+        "Slug": "../Prof/Sofia-Magalhaes",
+        "description": "Mestre em Psicologia Escolar e do Desenvolvimento Humano da Faculdade de Psicologia/USP. Psicóloga. Desenvolve estudos e práticas de formação relacionados à Educação Ética e Moral no ambiente escolar. Foi professora de Educação Infantil e tem experiência como Coordenadora Pedagógica e Educacional na Educação Básica (Educação Infantil ao Ensino Médio) e Direção Escolar. Passou a integrar a equipe do curso de Pedagogia do Singularidades em agosto de 2018.",
+        "img_url": "../img/Professores/SofiaMagalhaes.webp",
+        "Cursos": [
+          "PSP"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Elizabeth dos Reis",
+        "Slug": "../Prof/Elizabeth-Reis",
+        "description": "Doutora e mestre em Psicologia Escolar e do Desenvolvimento Humano pela USP. Pedagoga. Psicóloga. Psicanalista. Especialista em Formação Integral, Competências Socioemocionais e Práticas Educacionais Inovadoras. Coordenadora do curso de Pós-Graduação em Psicopedagogia do Instituto Singularidades. Professora dos cursos de graduação e pós-graduação do Instituto Singularidades. Ministra cursos e atua como pesquisadora na área de Aprendizagem e Desenvolvimento; Educação Infantil; Neurociências e Educação; Gestão Educacional com alunos e famílias; e, Metodologias Ativas. Realiza assessoria pedagógica e formação continuada de professores e gestores em instituições públicas e particulares. Possui artigos publicados em revistas científicas e é coautora de livros na área de psicologia e educação.",
+        "img_url": "../img/Professores/ElizabethReis.webp",
+        "Cursos": [
+          "PSP"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Daniela Dau",
+        "Slug": "../Prof/Daniela-Dau",
+        "description": "Pedagoga pelo Instituto Singularidades (SP). Psicóloga pela UFPR. MA em Psicologia pela The New School (NY). Formação em Psicoterapia Psicanalítica pela The Contemporary Freudian Society (NY). Aprimoramento no atendimento psicanalítico a famílias/casais e em psicoterapia psicanalítica dos distúrbios precoces da relação mãe-bebê pela PUC/SP. Trabalhou com alfabetização/letramento e produção de material didático no EJA (refugiados). Foi pesquisadora PIBIC-CNPq e monitora de graduação na área de Neurociência. Foi pesquisadora da relação mãe-bebê em psicoterapia psicanalítica breve. Foi tutora e coordenadora na formação continuada de professores pela Consultoria do Instituto Singularidades. Elaborou conteúdo para a pós-graduação online em Psicopedagogia e foi professora da pós-graduação presencial em Psicopedagogia do Instituto Singularidades. Atualmente, é coordenadora da pós-graduação online em Psicopedagogia do Instituto Singularidades, revisora de material didático e consultora educacional de famílias.",
+        "img_url": "../img/Professores/DanielaDau.webp",
+        "Cursos": [
+          "PSP"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Profa. Esp. Márcia Moreira Pereira",
+        "Slug": "../Prof/Marcia-Moreira",
+        "description": "Doutora em Letras pela Universidade Presbiteriana Mackenzie / SP. Licenciada em Letras (Português/Inglês), com especialização em Tradução. Mestre em Educação pela Universidade Nove de Julho / SP. Leciona disciplinas relacionadas a área de literatura e ensino no curso de Letras do Instituto Singularidades / SP. Foi professora de língua portuguesa, redação e literatura na rede pública de ensino. Pesquisadora do Programa Marco Interuniversitário para a Equidade e a Coesão Social nas Instituições de Ensino Superior (RIAIPE 3), da Universidade Lusófona de Humanidades e Tecnologias (2011). É membro da Associação dos professores de língua portuguesa e literatura (APLL), da Universidade de São Paulo. Tem artigos publicados em livros e revistas diversas.",
+        "img_url": "../img/Professores/MarciaMoreira.webp",
+        "Cursos": [
+          "PSP"
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Marcia Maria Ferrari Ortiz",
+        "Slug": "../Prof/Maria-Ferrari",
+        "description": "Bacharel em Matemática pela Universidade Mackenzie SP. Professora licenciada em Ciências da Natureza e em Matemática pela Universidade Mackenzie SP. Psicopedagoga clínica e institucional pela Pontifícia Universidade Católica de São Paulo. Especialista em Educação Infantil e Alfabetização pelo Centro Universitário Claretiano de São Paulo. Formação em Psicanálise Winnicottiana pela Sociedade Brasileira de Psicanálise Winnicottiana – SBPW (curso básico). Atualmente, é docente no curso de Psicopedagogia do Instituto Sedes Sapientiae, nas disciplinas de Educação Matemática I e Psicopedagogia e Educação Matemática II. Atua como professora particular e psicopedagoga clínica. Elaborou conteúdo para a pós-graduação on-line em Psicopedagogia do Instituto Singularidades, na disciplina Raciocínio Lógico. Foi professora de Matemática da pós-graduação presencial em Psicopedagogia da UNICID. Foi professora de ensino fundamental da rede pública e particular de São Paulo. Foi coordenadora da área de Exatas do E.F. e E.M. em escola particular. Foi formadora de professores mediadores segundo Feuerstein através do Projeto Menteinovadora (Mind Lab do Brasil). Foi produtora e revisora de materiais didáticos no Projeto Menteinovadora da Mind Lab do Brasil.",
+        "img_url": "../img/Professores/MariaFerrari.webp",
+        "Cursos": [
+          "PSP"
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Profa. Dra. Carolina Costa Cavalcanti",
+        "Slug": "../Prof/Carolina-Cavalcanti",
+        "description": "Carolina Costa Cavalcanti que é doutora pela Faculdade de Educação da Universidade de São Paulo (FE-USP), mestra em Tecnologias Educacionais pelo Instituto Tecnológico e de Estudos Superiores de Monterrey (ITESM - México), graduada em Pedagogia pela Universidade de Santo Amaro (Unisa) e em Jornalismo pela Southwestern Adventist University (SWAU - EUA). É professora do Instituto Singularidades e atua como profa. convidada na Fundação Dom Cabral no desenho de programas de formação docente, criação de soluções educacionais digitais. É pesquisadora do Núcleo de Novas Arquiteturas Pedagógicas da USP e associada da Pan American Problem Based Learning Network and Active Learning (PanPBL). Suas aréas de pesquisa e atuação são: educação digital criativa, metodologias inov-ativas de aprendizagem, Design Thinking na Educação e formação de educadores com propósito. É autora dos livros “Design Thinking na educação presencial, a distância e corporativa” (Saraiva, 2017), “Formação de Tutores para EAD” (Unaspress, 2017), “Metodologias Inov-ativas na educação” (Saraiva, 2018), Design Thinking (Editora Anhembi Morumbi, 2018) e co-autora dos livros “Inovações Radicais na Educação Brasileira” (Penso, 2019), “D.I 4.0: Inovações na Educação Corporativa” (Saraiva, 2019) e “Revolucionando a Sala de Aula 2” (Atlas, 2020).",
+        "img_url": "../img/Professores/CarolinaCavalcanti.webp",
+        "Cursos": [
+          "ESC"
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Dra. Hanna Danza",
+        "Slug": "../Prof/Hanna-Danza",
+        "description": "Hanna Cebel Danza é mestre e doutora em Psicologia e Educação pela Faculdade de Educação da Universidade de São Paulo. Estudando a temática dos Projetos de Vida desde 2011, defendeu em 2019 a tese intitulada “Conservação e mudança nos projetos de vida dos jovens: um estudo longitudinal sobre uma intervenção de Educação em Valores”. Em 2018 realizou um estágio de investigação e docência na Universidade de Barcelona junto ao Grup de Recerca en Educació Moral (GREM) e no curso de mestrado em “Educação em Valores” da mesma instituição. No mesmo período, foi coorientada pelas professoras eméritas da Faculdade de Psicologia da Universidade de Barcelona, Dra. Genoveva Sastre e Dra. Montserrat Moreno, que têm diversas publicações sobre educação emocional. Foi professora da disciplina “Projeto de vida” no Ensino Médio entre 2013 e 2017 em uma escola privada de São Paulo e do curso de extensão “Educação para a construção dos projetos de vida: aportações para o cumprimento das diretrizes da BNCC” no Instituto Singularidades. É autora do livro Projetos de vida: construindo o futuro (Editora Ática, 2021) e coautora dos livros Psicologia para Pais e Educadores: desenvolvimento moral e social (Juruá, 2019) e Estudos sobre adolescência: vários contextos, vários olhares (Mercado de Letras, 2017) e do material didático do componente curricular de Projeto de vida das Secretarias de Educação dos Estados de Pernambuco e Alagoas. Atua como consultora do componente curricular Projeto de Vida em diversas Secretarias Estaduais de Educação, é professora do curso de formação de professores em Projeto de Vida das Secretarias de Educação dos Estados de Pernambuco e Alagoas e do curso de aprimoramento “Educação socioemocional: teoria e prática” do Instituto Sedes Sapientiae, além de ser especialista de conteúdo do Programa Socioemocional Pleno.",
+        "img_url": "../img/Professores/HannaCebel.webp",
+        "Cursos": [
+          "ESC"
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Profº.Drº. Marco Antônio Morgado da Silva",
+        "Slug": "../Prof/Marco-Antonio-Morgado",
+        "description": "Marco Antônio Morgado da Silva é Doutor e Mestre em Psicologia e Educação pela Faculdade de Educação da Universidade de São Paulo (USP). No doutorado, desenvolveu pesquisa sobre a integração de valores morais à identidade de adolescentes, realizando estágio de investigação e docência na Universidade de Barcelona (UB), onde atuou junto ao Grupo de Investigação em Educação Moral (GREM). Sua área de pesquisa abrange os campos da psicologia moral, psicologia cognitiva e do desenvolvimento, estudos da identidade, educação em valores e metodologias ativas de aprendizagem. Compõe o núcleo de pesquisa em Novas Arquiteturas Pedagógicas (NAP) da USP. É professor há 12 anos na Educação Básica, com experiência em metodologias ativas neste nível de ensino e no Ensino Superior. Atualmente é coordenador de área e professor de Projetos Sociais na Escola Antonietta e Leon Feffer (ALEF) e trabalha com formação de professores, produção de material didático e consultoria pedagógica com os temas Educação em Valores, Aprendizagem Socioemocional e Projeto de Vida. É autor do livro didático Projeto de Vida: construindo o futuro (editora Ática), aprovado no Programa Nacional do Livro Didático (PNLD) de 2021, e do material didático do componente curricular de Projeto de Vida dos estados de Alagoas e Pernambuco.",
+        "img_url": "../img/Professores/MarcoMorgado.webp",
+        "Cursos": [
+          "ESC"
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Profª.Drª. Ana Claudia Loureiro",
+        "Slug": "../Prof/Ana-Claudia-Loureiro",
+        "description": "Ana Claudia Loureiro é Doutora pela Faculdade de Educação da Universidade de São Paulo (FEUSP), mestre em Ciências da Comunicação e Educação pela Escola de Comunicações e Artes da Universidade de São Paulo (ECAUSP), especialista em Tecnologias Interativas Aplicadas à Educação pela Pontifícia Universidade Católica de São Paulo (PUC/SP) e pedagoga pela Universidade São Judas Tadeu. Docente na área de tecnologias educacionais na escola básica e em cursos de Ensino Superior na formação de professores na área de tecnologias educacionais. Coordenadora do curso de pós-graduação em Inovação Pedagógica e Tecnologias Educacionais do Centro Universitário Adventista de São Paulo (UNASP). Autora do livro “Novos produtos e serviços na Educação 5.0”. Atualmente é docente da Escola Superior de Educação de Bragança (ESEB) do Instituto Politécnico de Bragança, Portugal e pós-doutoranda na área de Tecnologias na Educação e Formação Docente na mesma instituição.",
+        "img_url": "../img/Professores/ClaudiaLoureiro.webp",
+        "Cursos": [
+          "ESC"
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Profª.Drª. Alessandra Zago Dahmer",
+        "Slug": "../Prof/Alessandra-Zago",
+        "description": "Doutora em Educação, pela Pontifícia Universidade Católica de São Paulo (PUC/SP), mestre em Educação,pela Universidade Federal de Santa Catarina (CED/UFSC) e graduada em Pedagogia (licenciatura e bacharelado) pela UNIVALI/SC. Especialista em treinamento empresarial e tecnologia educacional – ênfase em ensino a distância. Coordenadora de projetos de educação a distância na FL2 Educação - Tecnologia – Inovação. Professora e orientadora de TCC de cursos da FIA, Enap e Mackenzie. Atua nos temas inovação aplicada à educação, design thinking, design instrucional, trilhas de aprendizagem mediadas pela tecnologia, aprendizagem baseada em problemas e por projetos, educação corporativa, educação a distância.",
+        "img_url": "../img/Professores/AlessandraZago.webp",
+        "Cursos": [
+          "ESC"
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Profª.Drª. Andrea Filatro",
+        "Slug": "../Prof/Andrea-Filatro",
+        "description": "Andrea Filatro é mestra e doutora em Educação pela Faculdade de Educação da USP, com formação em gestão de projetos pela FIA - Fundação Instituto de Administração. É consultora do Sistema S, ENAP, IRB e CEDDET. Professora convidada da FIA e do Instituto de Ensino do Hospital Albert Einstein, tem experiência na área de educação a distância, ensino superior, ensino profissionalizante e tecnologia educacional. Autora dos livros Design instrucional contextualizado (2004), Design instrucional na prática (2008), Produção de conteúdos educacionais (2015), Design thinking na educação presencial, a distância e corporativa (2017), Como preparar conteúdos para EAD (2018) e Metodologias inov-ativas na educação presencial, a distância e corporativa (2018), DI 4.0: Inovações na Educação corporativa (2019), Data Science na Educação presencial, a distância e corporativa (2020), Novos produtos e serviços na educação 5.0 (2020) dentre outros.",
+        "img_url": "../img/Professores/AndreaFilatro.webp",
+        "Cursos": [
+          "ESC"
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Profª.Drª. Emilly Fidelix",
+        "Slug": "../Prof/Emilly-Fidelix",
+        "description": "Emilly Fidelix é doutoranda em História Cultural pela Universidade Federal de Santa Catarina, Especialista em Tecnologias, Comunicação e Técnicas de Ensino pela Universidade Tecnológica Federal do Paraná (2018), Mestra em História Cultural pela Universidade Federal de Santa Catarina (UFSC) pela linha de pesquisa História da Historiografia, Arte, Memória e Patrimônio, especialista em História Social (2013), graduada em Licenciatura em História (2012). Professora há 12 anos em escolas da rede pública e privada. Criadora da página @seligaprof Colunista no portal Infogeekie. Escritora de artigos sobre educação para veículos especializados. Atua nas áreas de História Contemporânea, História Cultural e Educação e Tecnologia. Membro do grupo de pesquisa LabHArte - Laboratório de Pesquisa em História e Arte.",
+        "img_url": "../img/Professores/EmillyFidelix.webp",
+        "Cursos": [
+          "ESC"
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Profª.Drª. Tathyana Gouvêa",
+        "Slug": "../Prof/Tathyana-Gouvea",
+        "description": "Doutora em Inovação Educacional pela USP (2016), Mestre em Gestão Escolar pela PUC-SP (2009), Pedagoga pela USP e Administradora pela FGV. É professora na Graduação do Instituto Singularidades (São Paulo) e na Pós-Graduação em Educação Transformadora (Curitiba).Trabalhou em projetos junto às Secretarias de Educação, Institutos, Fundações e escolas públicas e particulares. Em parceria com a Casa Educação e a Harvard Business Review, desenvolveu o curso de Planejamento Estratégico para a Educação Básica. Foi gestora de projetos no ISMART, coordenadora da pesquisa Educação de Alma Brasileira e do livro internacional Edushifts: o futuro da educação é agora! É coautora do livro Inovações Radicais na Educação Brasileira, organizado pela Stanford e Columbia University. Realiza consultoria, pesquisa e formação nas áreas de gestão, currículo e inovação na perspectiva da educação democrática e integral.",
+        "img_url": "../img/Professores/TathyanaGouvea.webp",
+        "Cursos": [
+          "ESC"
+        ]
+      }
+    ],
+    "Cursos": [
+      {
+        "id": 1,
+        "nameCurso": "Metodologias e Práticas para Educação Bilíngue",
+        "tipoCurso": "Especialização (Pós Latu Senso, MBA)",
+        "Slug": "Curso/Educacao-Bi-Multilingue",
+        "DesktopBanner":"../img/Banners/BannerCursosDesktop.webp",
+        "MobileBanner":"../img/Banners/BannerCursosMobile.webp",
+        "card_img": "../img/cursos/Educacao-Bi-Multilingue.webp",
+        "codCurso": "MEB",
+        "Valor": [
+          "Boleto",
+          "Até 18x de 599,00",
+          "Sem taxa de matrícula"
+        ],
+        "briefing": [
+          "A nossa Pós-Graduação em Metodologias e Práticas para Educação Bilíngue espera potencializar a prática de educadores, formando profissionais para atuação em cenários multilíngues capazes de oferecer uma abordagem multifacetada e completa. Pretende-se contribuir para a constituição de espaços de aprendizagem que valorizem a condição bi/multilíngue da comunidade.",
+          "Estamos de acordo com as novas Diretrizes Curriculares Nacionais para a oferta de​ Educação​ Plurilíngue."
+        ],
+        "informacaoBasica": [
+          {
+            "name": "Tempo de duração",
+            "desc": "18 meses",
+            "icon": "clock"
+          },
+          {
+            "name": "Data de início",
+            "desc": "22 de Março de 2021",
+            "icon": "duration"
+          },
+          {
+            "name": "Carga horária",
+            "desc": "360 horas/aula",
+            "icon": "calendary"
+          },
+          {
+            "name": "Infraestrutura",
+            "desc": "Toda a nossa Infraestrutura está disponível.",
+            "icon": "build"
+          }
+        ],
+        "propostaCurricular": [
+          {
+            "titilo": "Objetivo do curso",
+            "descricao": [
+              "Este curso de Pós-Graduação de 360h tem como objetivo promover o debate sobre as metodologias e práticas para a educação bi/multilíngue aplicadas à educação infantil, ensino fundamental e ensino médio."
+            ]
+          },
+          {
+            "titilo": "Público-alvo",
+            "descricao": [
+              "educadores interessados em educação bi/multilíngue;",
+              "professores atuantes em cenários em que duas ou mais línguas matrizes culturais coexistem;",
+              "coordenadores atuantes em cenários bi/multilíngue;",
+              "consultores atuantes no mercado editorial que produzem materiais didáticos/sistemas para escolas bilíngues."
+            ]
+          }
+        ],
+        "modulos": [
+          {
+            "nameTab": "Módulo 1",
+            "descricao": [
+              "Educação Bilíngue e Bilinguismo;",
+              "Cultura e Educação Bi/Multilíngue;",
+              "O Trabalho Com a Escrita e Com a Leitura em Mais de Uma Língua e a Pedagogia dos Multiletramentos;",
+              "O Trabalho com Literatura em Contexto Multilíngue."
+            ]
+          },
+          {
+            "nameTab": "Módulo 2",
+            "descricao": [
+              "Arranjos Interacionais em Contextos Bilíngues;",
+              "Planejamento Integrado de Conteúdo e Língua;",
+              "PBL: Project Based Learning;",
+              "Pesquisa Aplicada em Educação Bilíngue."
+            ]
+          },
+          {
+            "nameTab": "Módulo 3",
+            "descricao": [
+              "Avaliação em Educação Bilíngue;",
+              "O Ensino do Português;",
+              "Translanguaging Pedagogy;",
+              "Neurociência e Práticas Pedagógicas para Educação Bilíngue."
+            ]
+          }
+        ],
+        "faq": [
+          {
+            "pergunta": "A Pós-Graduação Metodologias e Práticas para Educação Bilíngue do Singularidades é reconhecida pelo MEC?",
+            "resposta": [
+              "Somos uma instituição reconhecida pelo MEC (Ministério da Educação) e, portanto, estamos aptos a ofertar cursos de Graduação e Pós-Graduação."
+            ]
+          },
+          {
+            "pergunta": "Quais os pré-requisitos para ingressar no curso?",
+            "resposta": [
+              "Os pré-requisitos para ingresso são:",
+              "• Ter no mínimo 10 horas semanais para participação no curso;",
+              "• possuir equipamentos com acesso à internet;",
+              "• já possuir uma graduação completa."
+            ]
+          },
+          {
+            "pergunta": "Como posso realizar a minha inscrição?",
+            "resposta": [
+              "Para obter mais informações sobre o curso, o interessado poderá preencher o formulário que se encontra no topo da página ou entrar em contato através do número (11) 95550-8108 (Whatsapp) ou (11) 3375-0044 Ramal 273."
+            ]
+          },
+          {
+            "pergunta": "Quais são as formas de pagamento disponíveis?",
+            "resposta": [
+              "O pagamento da primeira parcela pode ser feito por boleto ou cartão de crédito. As demais parcelas são feitas por boletos que ficam disponíveis no portal do aluno."
+            ]
+          },
+          {
+            "pergunta": "Como são realizadas as atividades e avaliações?",
+            "resposta": [
+              "Todas as atividades e avaliações da Pós-Graduação em Educação Bilíngue são realizadas diretamente na plataforma do curso.",
+              "As mesmas estão distribuídas como fóruns, tarefas ou objetos de aprendizagem, que podem incluir realizações de testes, exploração de imagens, podcasts, documentos de texto, vídeos ou quizzes. Essas atividades têm o objetivo de auxiliar na prática do professor-pesquisador, mas principalmente facilitar a troca de conhecimentos entre os alunos. Elas são consideradas como optativas, ou seja, o aluno está livre para decidir participar ou não.",
+              "Ao fim de cada disciplina, o aluno deverá fazer uma atividade avaliativa obrigatória. Sua realização acontece de diversas formas, quase sempre, voltadas à pesquisa de campo, como entrevistas, proposta de aula sobre o conteúdo abordado, pequeno artigo sobre considerações a respeito da disciplina, textos sobre experiência do aluno no ambiente bilíngue, entre outros."
+            ]
+          },
+          {
+            "pergunta": "Quais os documentos necessários para realizar a matrícula?",
+            "resposta": [
+              "É necessário que o aluno encaminhe para os consultores os seguintes documentos obrigatoriamente digitalizados antes do início das aulas:",
+              "• RG (não pode ser CNH);",
+              "• CPF;",
+              "• Foto 3x4 ou digital;",
+              "• Comprovante de residência;",
+              "• Certidão (Nascimento/Casamento/ Averbação);",
+              "• Histórico do curso de Graduação;",
+              "• Diploma Graduação (Frente e Verso)."
+            ]
+          },
+          {
+            "pergunta": "Aluno ou ex-aluno do Instituto Singularidades possui desconto no valor do curso?",
+            "resposta": [
+              "Nossos alunos e ex-alunos de Graduação ou Pós-Graduação possuem desconto de 10% no valor do curso. Funcionários públicos e associados ao SINPRO possuem desconto de 14% no valor do curso.",
+              "Para solicitar o desconto, o interessado deverá comunicar os consultores durante o atendimento, além de ter que enviar documentação comprobatória do serviço público ou da associação ao SINPRO."
+            ]
+          },
+          {
+            "pergunta": "É possível trancar meu curso de Pós-Graduação?",
+            "resposta": [
+              "Possibilitamos que o aluno realize a Pós-Graduação em Educação Bilíngue EAD em até 36 meses, desse modo ele poderá adequar a grade às suas necessidades. Após o período citado, não será possível que o estudante retorne ao curso."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o TCC?",
+            "resposta": [
+              "O MEC não exige um trabalho de conclusão de curso (TCC) para cursos de especialização. No entanto, a elaboração de um trabalho final ajuda na consolidação de todo o conhecimento adquirido ao longo do curso, por isso para aprovação na Pós-Graduação é necessário concluir o trabalho final. Esse trabalho não precisa ser apresentado presencialmente e será desenvolvido pelo aluno ao longo do curso com o suporte dos professores e tutores."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o Critério de Aprovação?",
+            "resposta": [
+              "Para aprovação é necessário a elaboração do trabalho final e aprovação com, no mínimo, nota 6,0 em cada um dos módulos/disciplinas do curso."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "nameCurso": "Psicopedagogia: Avaliação e Intervenção em Processos de Aprendizagem",
+        "tipoCurso": "Especialização (Pós Latu Senso, MBA)",
+        "Slug": "Curso/Psicopedagogia",
+        "DesktopBanner":"../img/Banners/BannerCursosDesktop.webp",
+        "MobileBanner":"../img/Banners/BannerCursosMobile.webp",
+        "card_img": "../img/cursos/Psicopedagogia.webp",
+        "codCurso": "PSP",
+        "Valor": [
+          "Boleto",
+          "Até 18x de 499,00",
+          "Sem taxa de matrícula"
+        ],
+        "briefing": [
+          "A nossa Pós-Graduação em Psicopedagogia se propõe a formar profissionais para avaliar e intervir em contextos de aprendizagem. Ao final do curso, o psicopedagogo estará habilitado para executar esses processos em contextos clínicos e institucionais.",
+          "Profissionais com qualquer graduação estão aptos a fazer o curso e atuar nos contextos clínico e institucional. Para atuação no contexto clínico, é fortemente recomendada a supervisão. Em ambos os contextos, essa é uma área que oferece inúmeras possibilidades de atuação para aqueles interessados em promover a diferença no campo da Educação!"
+        ],
+        "informacaoBasica": [
+          {
+            "name": "Tempo de duração",
+            "desc": "18 meses",
+            "icon": "clock"
+          },
+          {
+            "name": "Data de início",
+            "desc": "22 de Março de 2021",
+            "icon": "duration"
+          },
+          {
+            "name": "Carga horária",
+            "desc": "360 horas/aula",
+            "icon": "calendary"
+          },
+          {
+            "name": "Infraestrutura",
+            "desc": "Toda a nossa infraestrutura está disponível.",
+            "icon": "build"
+          }
+        ],
+        "propostaCurricular": [
+          {
+            "titilo": "Objetivo do curso",
+            "descricao": [
+              "O objetivo da nossa Pós-Graduação é fornecer ferramentas ao aluno para que seja capaz de proporcionar relações de aprendizagem saudáveis nos mais variados contextos. Ao final do curso, deve ser capaz de avaliar e intervir nos processos de aprendizagem, utilizando teorias que sustentem a Psicopedagogia, bem como materiais, que serão apresentados e práticas que serão executadas ao longo do curso."
+            ]
+          },
+          {
+            "titilo": "Público-alvo",
+            "descricao": [
+              "educadores e professores licenciados de todas as áreas da Educação;",
+              "profissionais graduados em magistério superior e Pedagogia;",
+              "arte-educadores;",
+              "educadores comunitários;",
+              "coordenadores, diretores e orientadores educacionais;",
+              "psicólogos;",
+              "fonoaudiólogos;",
+              "assistentes sociais;",
+              "médicos;",
+              "todos os interessados no assunto, que tenham uma graduação prévia."
+            ]
+          }
+        ],
+        "modulos": [
+          {
+            "nameTab": "Módulo 1",
+            "descricao": [
+              "Fundamentos da Psicopedagogia;",
+              "Processos de Aprendizagem com Crianças;",
+              "Processos de Aprendizagem com Adolescentes;",
+              "Processos de Aprendizagem com Adultos."
+            ]
+          },
+          {
+            "nameTab": "Módulo 2",
+            "descricao": [
+              "Contribuições das Neurociências;",
+              "Linguagem e Processos Psicopedagógicos de Aprendizagem;",
+              "Raciocínio Lógico;",
+              "Arte e Corpo."
+            ]
+          },
+          {
+            "nameTab": "Módulo 3",
+            "descricao": [
+              "Leitura Institucional das Aprendizagens e Relações em Grupo;",
+              "Contribuições da Psicopedagogia para a Gestão Educacional;",
+              "Procedimentos de Avaliação e análise de casos em Psicopedagogia;",
+              "Projetos de Intervenção em Psicopedagogia."
+            ]
+          }
+        ],
+        "faq": [
+          {
+            "pergunta": "A Pós-Graduação em Psicopedagogia do Singularidades é reconhecida pelo MEC?",
+            "resposta": [
+              "Somos uma instituição reconhecida pelo MEC (Ministério da Educação) e, portanto, estamos aptos a ofertar cursos de Graduação e Pós-Graduação."
+            ]
+          },
+          {
+            "pergunta": "Quais os pré-requisitos para ingressar no curso?",
+            "resposta": [
+              "Os pré-requisitos para ingresso são:",
+              "• Ter no mínimo 10 horas semanais para participação no curso;",
+              "• possuir equipamentos com acesso à internet;",
+              "• já possuir uma graduação completa."
+             ]
+          },
+          {
+            "pergunta": "Como posso realizar a minha inscrição?",
+            "resposta": [
+              "Para obter mais informações sobre o curso, o interessado poderá preencher o formulário que se encontra no topo da página ou entrar em contato através do número (11) 95550-8108 (Whatsapp) ou (11) 3375-0044 Ramal 273."
+             ]
+          },
+          {
+            "pergunta": "Quais são as formas de pagamento disponíveis?",
+            "resposta": [
+              "O pagamento da primeira parcela pode ser feito por boleto ou cartão de crédito. As demais parcelas são feitas por boletos que ficam disponíveis no portal do aluno."
+             ]
+          },
+          {
+            "pergunta": "Como são realizadas as atividades e avaliações?",
+            "resposta": [
+              "Todas as atividades e avaliações da Pós-Graduação em Psicopedagogia são realizadas diretamente na plataforma do curso.",
+              "As mesmas estão distribuídas como fóruns, tarefas ou objetos de aprendizagem, que podem incluir realizações de testes, exploração de imagens, podcasts, documentos de texto, vídeos ou quizzes. Essas atividades têm o objetivo de auxiliar na prática do professor-pesquisador, mas principalmente facilitar a troca de conhecimentos entre os alunos. Elas são consideradas como optativas, ou seja, o aluno está livre para decidir participar ou não.",
+              "Ao fim de cada disciplina, o aluno deverá fazer uma atividade avaliativa obrigatória. Sua realização acontece de diversas formas, quase sempre, voltadas à pesquisa de campo, como entrevistas, proposta de aula sobre o conteúdo abordado, pequeno artigo sobre considerações a respeito da disciplina, textos sobre experiência do aluno no ambiente psicopedagógico, entre outros."
+             ]
+          },
+          {
+            "pergunta": "Quais os documentos necessários para realizar a matrícula?",
+            "resposta": [
+              "É necessário que o aluno encaminhe para os consultores os seguintes documentos obrigatoriamente digitalizados antes do início das aulas:",
+              "• RG (não pode ser CNH);",
+              "• CPF;",
+              "• Foto 3x4 ou digital;",
+              "• Comprovante de residência;",
+              "• Certidão (Nascimento/Casamento/ Averbação);",
+              "• Histórico do curso de Graduação;",
+              "• Diploma Graduação (Frente e Verso)."
+             ]
+          },
+          {
+            "pergunta": "Aluno ou ex-aluno do Instituto Singularidades possui desconto no valor do curso?",
+            "resposta": [
+              "Nossos alunos e ex-alunos de Graduação ou Pós-Graduação possuem desconto de 10% no valor do curso. Funcionários públicos e associados ao SINPRO possuem desconto de 14% no valor do curso.",
+              "Para solicitar o desconto, o interessado deverá comunicar os consultores durante o atendimento, além de ter que enviar documentação comprobatória do serviço público ou da associação ao SINPRO."
+            ]
+          },
+          {
+            "pergunta": "É possível trancar meu curso de Pós-Graduação?",
+            "resposta": [
+              "Possibilitamos que o aluno realize a Pós-Graduação em Psicopedagogia EAD em até 36 meses, desse modo ele poderá adequar a grade às suas necessidades. Após o período citado, não será possível que o estudante retorne ao curso."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o TCC?",
+            "resposta": [
+              "O MEC não exige um trabalho de conclusão de curso (TCC) para cursos de especialização. No entanto, a elaboração de um trabalho final ajuda na consolidação de todo o conhecimento adquirido ao longo do curso, por isso para aprovação na Pós-Graduação é necessário concluir o trabalho final. Esse trabalho não precisa ser apresentado presencialmente e será desenvolvido pelo aluno ao longo do curso com o suporte dos professores e tutores."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o Critério de Aprovação?",
+            "resposta": [
+              "Para aprovação é necessário a elaboração do trabalho final e aprovação com, no mínimo, nota 6,0 em cada um dos módulos/disciplinas do curso."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "nameCurso": "Escola Transformadora: Cocriar e Inovar na Educação",
+        "tipoCurso": "Especialização (Pós Latu Senso, MBA)",
+        "Slug": "Curso/Escola-transformadora",
+        "DesktopBanner":"../img/Banners/BannerCursosDesktop.webp",
+        "MobileBanner":"../img/Banners/BannerCursosMobile.webp",
+        "card_img": "../img/cursos/Escola-transformadora.webp",
+        "codCurso": "ESC",
+        "Valor": [
+          "Boleto",
+          "Até 18x de R$599,00",
+          "Sem taxa de matrícula"
+        ],
+        "briefing": [
+          "A Pós-graduação Escola Transformadora promove a reflexão, construção de conhecimentos e vivências colaborativas relacionadas à implementação de inovações em contextos de educação Básica.  Visa desenvolver de forma humana, atual e teórico-prática educadores distribuídos por todo o Brasil para que, pelo aprimoramento de competências pedagógicas, cognitivas, tecnológicas, socioemocionais e de gestão, possam traçar caminhos para fomentar a cultura de cocriação e inovação na escola.",
+          "A especialização ofertada prepara professores, gestores, pesquisadores e especialistas em educação para ampliar seus conhecimentos e esferas de atuação no sentido de desenhar e implementar inovações na escola e contribuir na construção de ambientes de aprendizagem significativos. Com isso espera-se que se tornem, de forma direta ou indireta, agentes de transformação na vida dos alunos, na escola, na comunidade e na sociedade."
+        ],
+        "informacaoBasica": [
+          {
+            "name": "Data de início",
+            "desc": "22 de Março de 2021",
+            "icon": "duration"
+          },
+          {
+            "name": "Carga horária",
+            "desc": "360 horas/aula",
+            "icon": "calendary"
+          }
+        ],
+        "propostaCurricular": [
+          {
+            "titilo": "Objetivo do curso",
+            "descricao": [
+              "A especialização pretende capacitar profissionais para que fomentem a cocriação de Escolas Transformadoras pela concepção e implementação de inovações em educação viabilizadas pelo planejamento, design, produção e avaliação de projetos educacionais que focam no desenvolvimento integral de crianças e jovens, fazem uso de recursos midiáticos e tecnológicos de forma coerente e criativa e impactam a comunidade escolar."
+            ]
+          },
+          {
+            "titilo": "Público-alvo",
+            "descricao": [
+              "educadores que desejam atuar como agentes de transformação na educação básica;",
+              "professores que atuam na educação infantil, ensino fundamental e ensino médio;",
+              "coordenadores, orientadores e diretores de escola;",
+              "consultores e especialistas que atuam no mercado editorial que produzem materiais didáticos ou sistemas para educação básica;",
+              "pesquisadores que investigam sobre inovações na educação básica;",
+              "professores do ensino superior que atuam na área de pedagogia e licenciaturas."
+            ]
+          }
+        ],
+        "modulos": [
+          {
+            "nameTab": "Módulo 1",
+            "descricao": [
+              "Cocriação da Cultura de Inovação e Transformação na Escola;",
+              "Propósito do Educador: Motivações e Caminhos Para Inovar;",
+              "O Educador do Século XXI e as Arquiteturas Pedagógicas Inovadoras."
+            ]
+          },
+          {
+            "nameTab": "Módulo 2",
+            "descricao": [
+              "Projeto De Aplicação Para Inovar Na Escola (TCC).",
+              "Metodologias Inov-ativas: Do Design à Avaliação da Aprendizagem (Cri)Ativa;",
+              "Educação Híbrida e a Aprendizagem Mão na Massa na Cultura Maker e Steam;",
+              "Pensamento Computacional e Introdução à Programação Para Educadores."
+            ]
+          },
+          {
+            "nameTab": "Módulo 3",
+            "descricao": [
+              "Educação Socioemocional, Saúde Mental e Projeto de Vida Para Nativos Digitais;",
+              "O Uso Consciente e Ético das Tecnologias Digitais."
+            ]
+          },
+          {
+            "nameTab": "Módulo 4",
+            "descricao": [
+              "Cada participante deve escolher cursar 3 das 5 disciplinas apresentadas a seguir:",
+              "Práticas Inovadoras na Educação Infantil e Ensino Fundamental;",
+              "Práticas Inovadoras no Ensino Médio e Gestão Escolar;",
+              "Projetos que Aceleram a Transformação na Escola;",
+              "Educação Bilíngue e Bilinguismo;",
+              "Neurociência e Aprendizagem."
+            ]
+          }
+        ],
+        "faq": [
+          {
+            "pergunta": "A Pós-Graduação em Escola Transformadora do Singularidades é reconhecida pelo MEC?",
+            "resposta": [
+              "Somos uma instituição reconhecida pelo MEC (Ministério da Educação) e portanto, estamos aptos a ofertar cursos de Graduação e Pós-Graduação."
+            ]
+          },
+          {
+            "pergunta": "Quais os pré-requisitos para ingressar no curso?",
+            "resposta": [
+              "Os pré-requisitos para ingresso são:",
+              "• Ter no mínimo 10 horas semanais para participação no curso;",
+              "• possuir equipamentos com acesso à internet;",
+              "• já possuir uma graduação completa."
+            ]
+          },
+          {
+            "pergunta": "Como posso realizar a minha inscrição?",
+            "resposta": [
+              "Para obter mais informações sobre o curso, o interessado poderá preencher o formulário que se encontra no topo da página ou entrar em contato através do número (11) 97647-2313 (Whatsapp)."
+            ]
+          },
+          {
+            "pergunta": "Quais são as formas de pagamento disponíveis?",
+            "resposta": [
+              "O pagamento da primeira parcela pode ser feito por boleto ou cartão de crédito, as demais parcelas são feitas por boletos que ficam disponíveis no portal do aluno."
+            ]
+          },
+          {
+            "pergunta": "Como são realizadas as atividades e avaliações?",
+            "resposta": [
+              "As atividades propostas pelos professores da Pós-Graduação Escola Transformadora são embasadas em metodologias inov-ativas de aprendizagem e incluem: trabalho com projetos com Design Thinking e PBL, análise de situações-problema, pesquisa de campo, entrevistas com professores, coordenações ou instituições, estudos de caso, jogos interativos, debates estruturados, webquests, construção de mural colaborativo, quizzes com feedback no formato de podcasts, construção de narrativa transmídia, mapeamento de inovações em educação dentre outras. O desenvolvimento das atividades será mediado por tutores especialistas. As atividades têm o objetivo de auxiliar na construção de conhecimentos do educador, mas principalmente visam facilitar a adoção de novas práticas na escola.",
+              "Em cada disciplina cursada, os participantes serão avaliados em relação aos conhecimentos, habilidades e atitudes vinculadas às experiências de aprendizagem propostas. A avaliação será: a) diagnóstica: para levantamento de conhecimentos anteriores, b) formativa: atividades colaborativas e individuais realizadas durante a oferta da disciplina com acompanhamento de tutores, c) avaliação somativa: com feedbacks robustos de tutores e consolidação dos conhecimentos construídos."
+            ]
+          },
+          {
+            "pergunta": "Quais os documentos necessários para realizar a matrícula?",
+            "resposta": [
+              "É necessário que o aluno encaminhe para os consultores os seguintes documentos obrigatoriamente digitalizados antes do início das aulas:",
+              "• RG (não pode ser CNH);",
+              "• CPF;",
+              "• Foto 3x4 ou digital;",
+              "• Comprovante de residência;",
+              "• Certidão (Nascimento/Casamento/ Averbação);",
+              "• Histórico do curso de Graduação;",
+              "• Diploma Graduação (Frente e Verso)."
+            ]
+          },
+          {
+            "pergunta": "Aluno ou ex-aluno do Instituto Singularidades possui desconto no valor do curso?",
+            "resposta": [
+              "Nossos alunos e ex-alunos de Graduação ou Pós-Graduação possuem desconto de 10% no valor do curso. Funcionários públicos e associados ao SINPRO possuem desconto de 14% no valor do curso.",
+              "Para solicitar o desconto, o interessado deverá comunicar os consultores durante o atendimento, além de ter que enviar documentação comprobatória do serviço público ou da associação ao SINPRO."
+            ]
+          },
+          {
+            "pergunta": "É possível trancar meu curso de Pós-Graduação?",
+            "resposta": [
+              "Possibilitamos que o aluno realize a Pós-Graduação Escola Transformadora em até 36 meses, desse modo ele poderá adequar a grade às suas necessidades. Após o período citado, não será possível que o estudante retorne ao curso."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o TCC?",
+            "resposta": [
+              "O MEC não exige um trabalho de conclusão de curso (TCC) para cursos de especialização. No entanto, a elaboração de um trabalho final ajuda na consolidação de todo o conhecimento adquirido ao longo do curso, por isso para aprovação na Pós-Graduação é necessário concluir o trabalho final. Esse trabalho não precisa ser apresentado presencialmente e será desenvolvido pelo aluno ao longo do curso com o suporte dos professores e tutores."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o Critério de Aprovação?",
+            "resposta": [
+              "Para aprovação é necessário a elaboração do trabalho final e aprovação com, no mínimo, nota 6,0 em cada um dos módulos/disciplinas do curso."
+            ]
+          },
+          {
+            "pergunta": "O que é a Pós-Graduação em Escola Transformadora?",
+            "resposta": [
+              "A oferta de uma Pós-Graduação na modalidade online sobre conceitos e práticas inovadoras em ambientes escolares representa uma forma de enfrentamento ao complexo desafio de renovar a educação brasileira – seja ao quebrar barreiras de tempo e espaço e levar uma formação de qualidade para todo o território nacional, ou ao criar momentos de reflexão e propor ações pedagógicas e de gestão que desafiam educadores a colaborar e traçar caminhos para formar, de forma integral, as novas gerações preparando-os para enfrentar os desafios da contemporaneidade de modo responsável e ética. Essa é a essência da especialização Escola Transformadora. Nesse sentido, o curso assume o compromisso em levar seus participantes a construir novos saberes que sirvam de base para que concebem e implementem inovações que melhorem a qualidade das experiências de aprendizagem, conscientes de seu papel e contribuição para o bem comum da sociedade."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nameCurso": "Alfabetização em Contextos: Múltiplas Linguagens",
+        "tipoCurso": "Especialização (Pós Latu Senso, MBA)",
+        "Slug": "Curso/Alfabetizacao-em-contextos",
+        "DesktopBanner":"../img/Banners/BannerCursosDesktop.webp",
+        "MobileBanner":"../img/Banners/BannerCursosMobile.webp",
+        "card_img": "../img/cursos/Alfabetizacao-em-contextos.webp",
+        "codCurso": "ALF",
+        "Valor": [
+          "Boleto",
+          "Até 18x de R$599,00",
+          "Sem taxa de matrícula"
+        ],
+        "briefing": [
+          "A alfabetização é um desafio histórico no Brasil. Neste curso, o desafio é ampliado, pois a alfabetização é compreendida como um processo que atravessa diversas facetas docentes, enfrentadas pelos profissionais que atuam nos anos iniciais do ensino fundamental. A nossa Pós-Graduação Alfabetização em contextos: múltiplas linguagens oferece o que é necessário para superar com excelência esses desafios."
+        ],
+        "informacaoBasica": [
+          {
+            "name": "Tempo de duração",
+            "desc": "18 meses",
+            "icon": "clock"
+          },
+          {
+            "name": "Data de início",
+            "desc": "22 de Fevereiro de 2021",
+            "icon": "duration"
+          },
+          {
+            "name": "Carga horária",
+            "desc": "360 horas/aula",
+            "icon": "calendary"
+          },
+          {
+            "name": "Infraestrutura",
+            "desc": "Toda a nossa infraestrutura está disponível.",
+            "icon": "build"
+          }
+        ],
+        "propostaCurricular": [
+          {
+            "titilo": "Objetivo do curso",
+            "descricao": [
+              "A Pós-Graduação Alfabetização em contextos: múltiplas linguagens propõe suprir uma lacuna formativa dos profissionais de educação. O curso oferecerá a possibilidade de dialogar com alguns desafios teórico-práticos, demonstrados pelos professores, coordenadores pedagógicos e diretores. Além disso, objetiva-se colaborar para a qualificação de processos formativos que podem encontrar-se nas escolas."
+            ]
+          },
+          {
+            "titilo": "Público-alvo",
+            "descricao": [
+              "profissionais da educação envolvidos na formação contínua de professores;",
+              "coordenadores pedagógicos;",
+              "orientadores e diretores de escola;",
+              "professores que atuem na educação infantil e ensino fundamental 1."
+            ]
+          }
+        ],
+        "modulos": [
+          {
+            "nameTab": "Módulo 1",
+            "descricao": [
+              "Alfabetização e Letramento em Matemática: Teoria e(m) Prática;",
+              "Alfabetização em Língua Portuguesa: Fundamentos das Práticas I;",
+              "Dificuldades de Aprendizagem e o Desafio de Acolher a Complexidade da Vida;",
+              "Literatura infantil e Alfabetização."
+            ]
+          },
+          {
+            "nameTab": "Módulo 2",
+            "descricao": [
+              "Comunicação Matemática;",
+              "Alfabetização Matemática e Comunicação no Currículo I;",
+              "Alfabetização em Língua Portuguesa: Fundamentos das Práticas II;",
+              "Alfabetização e a Arte: Um Olhar para o Mundo."
+            ]
+          },
+          {
+            "nameTab": "Módulo 3",
+            "descricao": [
+              "Alfabetização em Língua Portuguesa: Teoria e(m) Prática;",
+              "Alfabetização Matemática e Comunicação no Currículo II;",
+              "Interações Socioambientais e as Relações com a Alfabetização;",
+              "Alfabetização e Autonomia: Estudar, como se aprende?"
+            ]
+          }
+        ],
+        "faq": [
+          {
+            "pergunta": "A Pós-Graduação Alfabetização em Contextos: múltiplas linguagens do Singularidades é reconhecida pelo MEC?",
+            "resposta": [
+              "Somos uma instituição reconhecida pelo MEC (Ministério da Educação) e, portanto, estamos aptos a ofertar cursos de Graduação e Pós-Graduação."
+            ]
+          },
+          {
+            "pergunta": "Quais os pré-requisitos para ingressar no curso?",
+            "resposta": [
+              "Os pré-requisitos para ingresso são:",
+              "• Ter no mínimo 10 horas semanais para participação no curso;",
+              "• possuir equipamentos com acesso à internet;",
+              "• já possuir uma graduação completa."
+            ]
+          },
+          {
+            "pergunta": "Como posso realizar a minha inscrição?",
+            "resposta": [
+              "Para obter mais informações sobre o curso, o interessado poderá preencher o formulário que se encontra no topo da página ou entrar em contato através dos números (11) 95550-8081 (Whatsapp) e (11) 3375-0044 Ramal 273."
+            ]
+          },
+          {
+            "pergunta": "Quais são as formas de pagamento disponíveis?",
+            "resposta": [
+              "O pagamento da primeira parcela pode ser feito por boleto ou cartão de crédito. As demais parcelas são feitas por boletos que ficam disponíveis no portal do aluno."
+            ]
+          },
+          {
+            "pergunta": "Como são realizadas as atividades e avaliações?",
+            "resposta": [
+              "Todas as atividades e avaliações da Pós-Graduação Alfabetização em Contextos são realizadas diretamente na plataforma do curso.",
+            "As mesmas estão distribuídas como fóruns, tarefas ou objetos de aprendizagem, que podem incluir realizações de testes, exploração de imagens, podcasts, documentos de texto, vídeos ou quizzes. Essas atividades têm o objetivo de auxiliar na prática do professor-pesquisador, mas principalmente facilitar a troca de conhecimentos entre os alunos. Elas são consideradas como optativas, ou seja, o aluno está livre para decidir participar ou não.",
+            "Ao fim de cada disciplina, o aluno deverá fazer uma atividade avaliativa obrigatória. Sua realização acontece de diversas formas, quase sempre, voltadas à pesquisa de campo, como entrevistas, proposta de aula sobre o conteúdo abordado, pequeno artigo sobre considerações a respeito da disciplina, textos sobre experiência do aluno no ambiente educacional, entre outros."
+            ]
+          },
+          {
+            "pergunta": "Quais os documentos necessários para realizar a matrícula?",
+            "resposta": [
+              "É necessário que o aluno encaminhe para os consultores os seguintes documentos obrigatoriamente digitalizados antes do início das aulas:",
+              "• RG (não pode ser CNH);",
+              "• CPF;",
+              "• Foto 3x4 ou digital;",
+              "• Comprovante de residência;",
+              "• Certidão (Nascimento/Casamento/ Averbação);",
+              "• Histórico do curso de Graduação;",
+              "• Diploma Graduação (Frente e Verso)."
+            ]
+          },
+          {
+            "pergunta": "Aluno ou ex-aluno do Instituto Singularidades possui desconto no valor do curso?",
+            "resposta": [
+              "Nossos alunos e ex-alunos de Graduação ou Pós-Graduação possuem desconto de 10% no valor do curso. Funcionários públicos e associados ao SINPRO possuem desconto de 14% no valor do curso.",
+              "Para solicitar o desconto, o interessado deverá comunicar os consultores durante o atendimento, além de ter que enviar documentação comprobatória do serviço público ou da associação ao SINPRO."
+            ]
+          },
+          {
+            "pergunta": "É possível trancar meu curso de Pós-Graduação?",
+            "resposta": [
+              "Possibilitamos que o aluno realize a Pós-Graduação Alfabetização em Contextos em até 36 meses, desse modo ele poderá adequar a grade às suas necessidades. Após o período citado, não será possível que o estudante retorne ao curso."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o TCC?",
+            "resposta": [
+              "O MEC não exige um trabalho de conclusão de curso (TCC) para cursos de especialização. No entanto, a elaboração de um trabalho final ajuda na consolidação de todo o conhecimento adquirido ao longo do curso, por isso para aprovação na Pós-Graduação é necessário concluir o trabalho final. Esse trabalho não precisa ser apresentado presencialmente e será desenvolvido pelo aluno ao longo do curso com o suporte dos professores e tutores."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o Critério de Aprovação?",
+            "resposta": [
+              "Para aprovação é necessário a elaboração do trabalho final e aprovação com, no mínimo, nota 6,0 em cada um dos módulos/disciplinas do curso."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nameCurso": "O Ensino Médio em Foco",
+        "tipoCurso": "Especialização (Pós Latu Senso, MBA)",
+        "Slug": "Curso/O-Ensino-Medio-em-Foco",
+        "DesktopBanner":"../img/Banners/BannerCursosDesktop.webp",
+        "MobileBanner":"../img/Banners/BannerCursosMobile.webp",
+        "card_img": "../img/cursos/O-ensino-medio-em-foco.webp",
+        "codCurso": "EMF",
+        "Valor": [
+          "Boleto",
+          "Até 18x de R$599,00",
+          "Sem taxa de matrícula"
+        ],
+        "briefing": [
+          "O Instituto Singularidades convida você a imergir no contexto complexo e desafiante da última etapa da educação básica, em especial após a publicação da BNCC, por meio do curso de Pós-Graduação O Ensino Médio em Foco. Vamos percorrer trilhas formativas com objetivo de conhecê-lo em profundidade, seus desafios e suas potencialidades com olhares específicos para gestores e para professores."
+        ],
+        "informacaoBasica": [
+          {
+            "name": "Tempo de duração",
+            "desc": "18 meses",
+            "icon": "clock"
+          },
+          {
+            "name": "Data de início",
+            "desc": "15 de Março de 2021",
+            "icon": "duration"
+          },
+          {
+            "name": "Carga horária",
+            "desc": "360 horas/aula",
+            "icon": "calendary"
+          },
+          {
+            "name": "Infraestrutura",
+            "desc": "Toda a nossa infraestrutura está disponível.",
+            "icon": "build"
+          }
+        ],
+        "propostaCurricular": [
+          {
+            "titilo": "Objetivo do curso",
+            "descricao": [
+              "Este curso de Pós-Graduação de 360h tem como objetivo ofertar trilhas formativas com ênfase no desenvolvimento profissional dos educadores que atuam no Ensino Médio a partir da BNCC e das novas diretrizes do Ensino Médio, subsidiando as práticas pedagógicas dos professores e as tomadas de decisão dos gestores frente às mudanças estruturantes desta etapa da educação básica."
+            ]
+          },
+          {
+            "titilo": "Público-alvo",
+            "descricao": [
+              "professores que atuam no Ensino Médio;",
+              "coordenadores;",
+              "diretores;"
+            ]
+          }
+        ],
+        "modulos": [
+          {
+            "nameTab": "Trilha Geral",
+            "descricao": [
+              "BNCC e o novo Ensino Médio: desafios e potencialidades;",
+              "Nova arquitetura do Ensino Médio: os itinerários formativos;",
+              "Os desafios da educação no século XXI: o desenvolvimento das competências socioemocionais;",
+              "O Ensino Híbrido como estratégia para potencializar a ação educativa;",
+              "Um olhar para a avaliação: novas concepções;",
+              "Reflexões sobre o Ensino Médio: Currículo, Diversidade e Território;",
+              "Protagonismo juvenil e juventudes: a centralidade do estudante nas práticas educativas;",
+              "Projeto de vida e as múltiplas trajetórias dos estudantes do Ensino Médio;",
+              "As novas modalidades de informação e de conhecimento no contexto do Ensino Médio."
+            ]
+          },
+          {
+            "nameTab": "Trilha Gestores",
+            "descricao": [
+              "A gestão educacional e suas múltiplas dimensões num cenário de mudanças;",
+              "A liderança do gestor na formação continuada dos educadores: a escola como um lócus estratégico da formação continuada das equipes escolares."
+            ]
+          },
+          {
+            "nameTab": "Trilha Professores",
+            "descricao": [
+              "Gestão da sala de aula e as metodologias ativas;",
+              "Os itinerários formativos como estratégia de diversificação e flexibilização curricular : (Linguagens e suas tecnologias, Ciências da Natureza e suas tecnologias, Matemática e suas tecnologias e Ciências Humanas e Sociais aplicadas)."
+            ]
+          }
+        ],
+        "faq": [
+          {
+            "pergunta": "A Pós-Graduação O Ensino Médio em Foco do Singularidades é reconhecida pelo MEC?",
+            "resposta": [
+              "Somos uma instituição reconhecida pelo MEC (Ministério da Educação) e, portanto, estamos aptos a ofertar cursos de Graduação e Pós-Graduação."
+            ]
+          },
+          {
+            "pergunta": "Quais os pré-requisitos para ingressar no curso?",
+            "resposta": [
+              "Os pré-requisitos para ingresso são:",
+              "• Ter no mínimo 10 horas semanais para participação no curso;",
+              "• possuir equipamentos com acesso à internet;",
+              "• já possuir uma graduação completa."
+            ]
+          },
+          {
+            "pergunta": "Como posso realizar a minha inscrição?",
+            "resposta": [
+              "Para obter mais informações sobre o curso, o interessado poderá preencher o formulário que se encontra no topo da página ou entrar em contato através dos números (11) 95550-8081 (Whatsapp) e (11) 3375-0044 Ramal 273."
+            ]
+          },
+          {
+            "pergunta": "Quais são as formas de pagamento disponíveis?",
+            "resposta": [
+              "O pagamento da primeira parcela pode ser feito por boleto ou cartão de crédito. As demais parcelas são feitas por boletos que ficam disponíveis no portal do aluno."
+            ]
+          },
+          {
+            "pergunta": "Como são realizadas as atividades e avaliações?",
+            "resposta": [
+              "Todas as atividades e avaliações da Pós-Graduação O Ensino Médio em Foco são realizadas diretamente na plataforma do curso.",
+              "As mesmas estão distribuídas como fóruns, tarefas ou objetos de aprendizagem, que podem incluir realizações de testes, exploração de imagens, podcasts, documentos de texto, vídeos ou quizzes. Essas atividades têm o objetivo de auxiliar na prática do professor-pesquisador, mas principalmente facilitar a troca de conhecimentos entre os alunos. Elas são consideradas como optativas, ou seja, o aluno está livre para decidir participar ou não.",
+              "Ao fim de cada disciplina, o aluno deverá fazer uma atividade avaliativa obrigatória. Sua realização acontece de diversas formas, quase sempre, voltadas à pesquisa de campo, como entrevistas, proposta de aula sobre o conteúdo abordado, pequeno artigo sobre considerações a respeito da disciplina, textos sobre experiência do aluno no ambiente educacional, entre outros."
+            ]
+          },
+          {
+            "pergunta": "Quais os documentos necessários para realizar a matrícula?",
+            "resposta": [
+              "É necessário que o aluno encaminhe para os consultores os seguintes documentos obrigatoriamente digitalizados antes do início das aulas:",
+              "• RG (não pode ser CNH);",
+              "• CPF;",
+              "• Foto 3x4 ou digital;",
+              "• Comprovante de residência;",
+              "• Certidão (Nascimento/Casamento/ Averbação);",
+              "• Histórico do curso de Graduação;",
+              "• Diploma Graduação (Frente e Verso)."
+            ]
+          },
+          {
+            "pergunta": "Aluno ou ex-aluno do Instituto Singularidades possui desconto no valor do curso?",
+            "resposta": [
+              "Nossos alunos e ex-alunos de Graduação ou Pós-Graduação possuem desconto de 10% no valor do curso. Funcionários públicos e associados ao SINPRO possuem desconto de 14% no valor do curso.",
+              "Para solicitar o desconto, o interessado deverá comunicar os consultores durante o atendimento, além de ter que enviar documentação comprobatória do serviço público ou da associação ao SINPRO."
+            ]
+          },
+          {
+            "pergunta": "É possível trancar meu curso de Pós-Graduação?",
+            "resposta": [
+              "Possibilitamos que o aluno realize a Pós-Graduação O Ensino Médio em Foco em até 36 meses, desse modo ele poderá adequar a grade às suas necessidades. Após o período citado, não será possível que o estudante retorne ao curso."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o TCC?",
+            "resposta": [
+              "O MEC não exige um trabalho de conclusão de curso (TCC) para cursos de especialização. No entanto, a elaboração de um trabalho final ajuda na consolidação de todo o conhecimento adquirido ao longo do curso, por isso para aprovação na Pós-Graduação é necessário concluir o trabalho final. Esse trabalho não precisa ser apresentado presencialmente e será desenvolvido pelo aluno ao longo do curso com o suporte dos professores e tutores."
+            ]
+          },
+          {
+            "pergunta": "Como funciona o Critério de Aprovação?",
+            "resposta": [
+              "Para aprovação é necessário a elaboração do trabalho final e aprovação com, no mínimo, nota 6,0 em cada um dos módulos/disciplinas do curso."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "nameCurso": "Princípios e Práticas para Educação Bilíngue",
+        "tipoCurso": "Livre e Extensão",
+        "Slug": "Curso/Principios-e-Praticas-Educação-Bilingue",
+        "DesktopBanner":"../img/Banners/BannerCursosDesktop.webp",
+        "MobileBanner":"../img/Banners/BannerCursosMobile.webp",
+        "card_img": "../img/cursos/Principios-e-praticas-Educacao-Bilingue.webp",
+        "codCurso": "PPB",
+        "Valor": [
+          "Boleto",
+          "Até 10x de R$399,00",
+          "Sem taxa de matrícula"
+        ],
+        "briefing": [
+          "O curso de extensão Princípios e Práticas para Educação Bilíngue foi organizado de modo a oferecer subsídios práticos e teóricos necessários para o trabalho em escolas bilíngues. Nosso objetivo é ampliar os conhecimentos profissionais de nossos alunos e aprimorar suas estratégias e saberes para a integração de conteúdos e línguas sempre valorizando os estudantes bi/multilíngues.",
+          "Com as Diretrizes Curriculares Nacionais para a oferta de Educação Plurilíngue é necessário que os professores tenham ​formação em Educação Bilíngue para atuarem na área. O nosso curso Princípios e Práticas para Educação Bilíngue​ é justamente para esses profissionais!"
+        ],
+        "informacaoBasica": [
+          {
+            "name": "Tempo de duração",
+            "desc": "6 meses",
+            "icon": "clock"
+          },
+          {
+            "name": "Data de início",
+            "desc": "15 de Março de 2021",
+            "icon": "duration"
+          },
+          {
+            "name": "Carga horária",
+            "desc": "120 horas/aula",
+            "icon": "calendary"
+          },
+          {
+            "name": "Infraestrutura",
+            "desc": "Toda a nossa infraestrutura está disponível.",
+            "icon": "build"
+          }
+        ],
+        "propostaCurricular": [
+          {
+            "titilo": "Objetivo do curso",
+            "descricao": [
+              "Este curso de extensão de 120h tem como objetivo discutir os princípios e práticas fundamentais que embasam a educação bilíngue. A finalidade é capacitar profissionais para lecionarem na educação bilíngue ​em conformidade com o estipulado para o perfil dos professores nas Novas Diretrizes Curriculares Nacionais para a oferta de Educação Plurilíngue. Além ​disso, visa promover o debate sobre as metodologias e práticas para a educação bi/multilíngue aplicadas ao ensino bilíngue na educação infantil, ensino fundamental e ensino médio."
+            ]
+          },
+          {
+            "titilo": "Público-alvo",
+            "descricao": [
+              "professores atuantes em cenários em que duas ou mais línguas ou matrizes culturais coexistem;",
+              "coordenadores atuantes em cenários bi/multilíngue;",
+              "consultores atuantes no mercado editorial que produzem materiais didáticos/sistemas para escolas bilíngues."
+            ]
+          }
+        ],
+        "modulos": [
+          {
+            "nameTab": "Módulo único",
+            "descricao": [
+              "Educação Bilíngue e Bilinguismo;",
+              "Planejamento Integrado de Conteúdo e Língua;",
+              "Project Based Learning;",
+              "Avaliação em Contextos Multilíngues."
+            ]
+          }
+        ],
+        "faq": [
+          {
+            "pergunta": "Quais os pré-requisitos para atuar como um Professor Bi/Multilíngue?",
+            "resposta": [
+              "Os novos pré-requisitos para ser um professor bilíngue são:",
+              "• Ter graduação em Pedagogia ou Letras;",
+              "• Ter comprovação de proficiência de no mínimo 82 pontos no Common European Framework for Languages (CEFR);",
+              "• Ter formação complementar em Ensino Bilíngue: Como este curso de 120 horas!"
+            ]
+          },
+          {
+            "pergunta": "Como posso realizar a minha inscrição?",
+            "resposta": [
+              "Para obter mais informações sobre o curso, o interessado poderá preencher o formulário que se encontra no topo da página ou entrar em contato através do número (11) 95550-8108 (Whatsapp)."
+            ]
+          },
+          {
+            "pergunta": "Quais são as formas de pagamento disponíveis?",
+            "resposta": [
+              "O pagamento do curso pode ser realizado no cartão de crédito em até 10x, ou por boleto em até 6x."
+            ]
+          },
+          {
+            "pergunta": "Como são realizadas as atividades e avaliações?",
+            "resposta": [
+              "Todas as atividades e avaliações da especialização do curso Princípios e Práticas para a Educação Bilíngue  são realizadas diretamente na plataforma do curso.",
+              "As mesmas estão distribuídas como fóruns, tarefas ou objetos de aprendizagem, que podem incluir realizações de testes, exploração de imagens, podcasts, documentos de texto, vídeos ou quizzes. Essas atividades têm o objetivo de auxiliar na prática do professor-pesquisador, mas principalmente facilitar a troca de conhecimentos entre os alunos. Elas são consideradas como optativas, ou seja, o aluno está livre para decidir participar ou não.",
+              "Ao fim de cada disciplina, o aluno deverá fazer uma atividade avaliativa obrigatória. Sua realização acontece de diversas formas, quase sempre, voltadas à pesquisa de campo, como entrevistas, proposta de aula sobre o conteúdo abordado, pequeno artigo sobre considerações a respeito da disciplina, textos sobre experiência do aluno no ambiente bilíngue, entre outros."
+            ]
+          },
+          {
+            "pergunta": "Quais os documentos necessários para realizar a matrícula?",
+            "resposta": [
+              "É necessário que o aluno encaminhe para os consultores os seguintes documentos obrigatoriamente digitalizados antes do início das aulas:",
+              "• RG (não pode ser CNH);",
+              "• CPF;",
+              "• Foto 3x4 ou digital;",
+              "• Comprovante de residência;",
+              "• Certidão (Nascimento/Casamento/ Averbação);",
+              "• Histórico do curso de Graduação;",
+              "• Diploma Graduação (Frente e Verso)."
+            ]
+          },
+          {
+            "pergunta": "Aluno ou ex-aluno do Instituto Singularidades possui desconto no valor do curso?",
+            "resposta": [
+              "Nossos alunos e ex-alunos de Graduação ou Pós-Graduação possuem desconto de 10% no valor do curso. Funcionários públicos e associados ao SINPRO possuem desconto de 14% no valor do curso.",
+              "Para solicitar o desconto, o interessado deverá comunicar os consultores durante o atendimento, além de ter que enviar documentação comprobatória do serviço público ou da associação ao SINPRO."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "nameCurso": "Educação Bilíngue: Desafios e Possibilidades",
+        "tipoCurso": "Pós-Graduação",
+        "Slug": "Curso/Educacao-Bilingue-Desafios-e-Possibilidades",
+        "DesktopBanner":"../img/Banners/BannerCursosDesktop.webp",
+        "MobileBanner":"../img/Banners/BannerCursosMobile.webp",
+        "card_img": "../img/cursos/Educacao-Bilingue-Desafios-e-Possibilidades.webp",
+        "codCurso": "EDB",
+        "Valor": [
+          "Boleto",
+          "Até 24x de R$925,00",
+          "Sem taxa de matrícula"
+        ],
+        "briefing": [
+          "Nunca antes os termos bi/multilinguismo e educação bi/multilíngue estiveram em tamanha evidência na sociedade brasileira. Diante desse cenário, este curso tem como objetivo promover estudo e discussão aprofundada sobre a educação bi/multilíngue nas escolas brasileiras e internacionais e sobre o bi/multilinguismo como fenômeno individual e social.",
+          "A especialização discutirá formas diversificadas de organização e estratégias pedagógicas favoráveis à instrução em mais de uma língua, na Educação Básica e no Ensino Superior."
+        ],
+        "informacaoBasica": [
+          {
+            "name": "Tempo de duração",
+            "desc": "24 meses",
+            "icon": "clock"
+          },
+          {
+            "name": "Data de início",
+            "desc": "20 de Março de 2021",
+            "icon": "duration"
+          },
+          {
+            "name": "Carga horária",
+            "desc": "366 horas/aula",
+            "icon": "calendary"
+          },
+          {
+            "name": "Infraestrutura",
+            "desc": "Toda a nossa infraestrutura está disponível.",
+            "icon": "build"
+          }
+        ],
+        "propostaCurricular": [
+          {
+            "titilo": "Objetivo do curso",
+            "descricao": [
+              "Este curso tem como objetivo discutir teorias e estruturas metodológicas fundamentais relacionadas à educação multilíngue."
+            ]
+          },
+          {
+            "titilo": "Público-alvo",
+            "descricao": [
+              "professores;",
+              "coordenadores;",
+              "assessores;",
+              "todos os interessados na atuação em cenários nos quais duas ou mais línguas e matrizes culturais coexistem."
+            ]
+          }
+        ],
+        "modulos": [
+          {
+            "nameTab": "1º Semestre",
+            "descricao": [
+              "Bilinguismo e Educação Bilíngue: Conceitos e Modalidades.",
+              "As Construções da Identidade do Sujeito Bilíngue.",
+              "Dimensões Históricas e Sociais da Linguagem e Teorias de Ensino e Aprendizagem de Línguas I."
+            ]
+          },
+          {
+            "nameTab": "2º Semestre",
+            "descricao": [
+              "Dimensões Históricas e Sociais da Linguagem e Teorias de Ensino e Aprendizagem de Línguas II.",
+              "Aquisição de Segunda Língua.",
+              "Letramento, Biletramento e Práticas de Leitura e Escrita.",
+              "Currículo e Legislação para Educação Bilíngue."
+            ]
+          },
+          {
+            "nameTab": "3º Semestre",
+            "descricao": [
+              "O Ensino Integrado de Linguagem e Conteúdo.",
+              "Metodologia do Trabalho Científico.",
+              "Análise e Construção de Material Didático para Educação Bilíngue."
+            ]
+          },
+          {
+            "nameTab": "4º Semestre",
+            "descricao": [
+              "Avaliação e Ensino de Línguas.",
+              "Letramento Literário no Ensino Bilíngue.",
+              "Neurociência, Linguagem e o Sujeito Bilíngue."
+            ]
+          }
+        ]
+      }
+    ]
+  }

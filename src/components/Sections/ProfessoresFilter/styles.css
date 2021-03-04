@@ -1,0 +1,21 @@
+.carContainer{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: start;
+      align-content: flex-start;
+      margin: 20px auto;
+  max-width: 790px;
+}
+
+.carContainer .title{
+  min-width: 100%;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 24px;
+}

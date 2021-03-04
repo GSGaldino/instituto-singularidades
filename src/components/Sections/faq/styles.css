@@ -1,0 +1,13 @@
+#faq h2{
+  min-width: 100%;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 24px;
+}
+
+.accordion-container{
+  border: 2px solid var(--text-color);
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 40px;
+}

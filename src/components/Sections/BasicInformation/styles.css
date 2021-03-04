@@ -1,0 +1,72 @@
+#basic-information {
+  background: var(--secondary-color);
+}
+
+#basic-information .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  justify-content: space-around;
+  padding: 5px;
+  max-width: 1100px;
+  align-items: center;
+}
+
+#basic-information .item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 10px auto;
+  width: 200px;
+}
+
+#basic-information .item .image {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: var(--background-nav);
+  width: 50px;
+  height: 50px;
+  margin: 5px auto;
+  border-radius: 50%;
+  overflow: hidden; /* if the prop is an image, the overflow will adapt */
+}
+
+#basic-information .item svg {
+  font-size: 2rem;
+  color: var(--title-color-2);
+}
+
+#basic-information .item .text {
+  color: var(--title-color-light);
+  text-align: center;
+  font-weight: 500;
+}
+
+@media only screen and (max-width: 425px) {
+  #basic-information {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding: 15px;
+  }
+  #basic-information .item {
+    width: 250px;
+  }
+}

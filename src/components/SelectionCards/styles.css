@@ -1,0 +1,29 @@
+#selection-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px;
+  text-align: start;
+}
+
+#selection-card .flex-itens{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  margin: .5rem;
+}
+
+@media screen and (min-width: 800px){
+  #selection-card {
+    padding-bottom: 30px;
+  }
+
+  #selection-card {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  #selection-card .flex-itens{
+    margin: .5rem;
+  }
+}

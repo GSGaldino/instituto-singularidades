@@ -1,0 +1,288 @@
+.button-holder {
+  padding: 10px 40px;
+}
+
+#form {
+  width: 100vw;
+  margin: 4px auto;
+  padding: 66px;
+  background: var(--shader);
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+#form h1 {
+  font-size: 36px;
+}
+#form fieldset {
+  min-inline-size: auto;
+  border: 0;
+  min-width: 40%;
+  max-width: 730px;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+#form legend {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  margin-bottom: 40px;
+}
+#form legend h3 {
+  font-size: 24px;
+  color: var(--text-color);
+}
+#form legend span {
+  font-size: 1.2rem;
+  font-weight: normal;
+  color: var(--text-color);
+  width: 50%;
+  text-align: end;
+}
+#form .field-group {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+#form .field {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-bottom: 24px;
+}
+#form .field input[type=text],
+#form .field input[type=email],
+#form .field input[type=tel] {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  background: var(--shader);
+  border-radius: 8px;
+  border: 0;
+  padding: 10px 24px;
+  font-size: 16px;
+  color: var(--text-color);
+  border: 1px solid var(--border-form);
+  -webkit-transition: .25s ease-in;
+  -o-transition: .25s ease-in;
+  transition: .25s ease-in;
+}
+#form .field input:focus {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  border-radius: 8px;
+  border: 0;
+  font-size: 16px;
+  padding-bottom: 8px;
+  border: 1px solid var(--border-form);
+  border-bottom: 3px solid var(--text-color);
+  color:var(--text-color);
+  outline: 0;
+}
+#form .field:focus input:after {
+  position: relative;
+  left: 0;
+  right: 0;
+  width: 100%;
+  border: 1px solid rebeccapurple;
+}
+
+#form .field input::-webkit-input-placeholder {
+  color: var(--title-color);
+  font-size: 1.1rem;
+}
+
+#form .field input::-moz-placeholder {
+  color: var(--title-color);
+  font-size: 1.1rem;
+}
+
+#form .field input:-ms-input-placeholder {
+  color: var(--title-color);
+  font-size: 1.1rem;
+}
+
+#form .field input::-ms-input-placeholder {
+  color: var(--title-color);
+  font-size: 1.1rem;
+}
+
+#form .field input::placeholder {
+  color: var(--title-color);
+  font-size: 1.1rem;
+}
+#form .field label {
+  font-size: 1rem;
+  margin-bottom: 8px;
+  color:var(--text-color);
+}
+#form .field :disabled {
+  cursor: not-allowed;
+}
+#form .field-group .field + .field {
+  margin-left: 0px;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+#form .field-group input + input {
+  margin-left: 0px;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+#form .field-check {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#form .field-check input[type=checkbox] {
+  background:var(--background-color);
+}
+
+#form .field-check label {
+  margin: 0 0 0 8px;
+}
+
+#form .leaflet-container {
+  width: 100%;
+  height: 350px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+
+.is-success{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  z-index: 9999;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background: var(--background-footer);
+  opacity: 0.95;
+}
+
+.hide{
+  display: none;
+  opacity: 0;
+}
+
+.alert{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.alert h2{
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: var(--text-color);
+}
+
+.is-success .check-icon{
+  margin-bottom: .5rem;
+  color: var(--icons-color);
+  font-size: xxx-large;
+}
+
+@media only screen and (max-width: 425px) {
+  #form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    width: 100vw;
+    padding: 10px;
+    background: var(--shader);
+    border-radius: 0px;
+    max-width: 100%;
+  }
+  #form h1 {
+    font-size: 36px;
+  }
+  #form fieldset {
+    min-inline-size: auto;
+    border: 0;
+    max-width: 100%;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+  }
+
+  #form legend {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    width: 100%;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding-top: 20px;
+    
+}
+#form legend h2 {
+  width: 100%;
+}
+#form legend span {
+  width: 100%;
+  text-align: left;
+}
+}

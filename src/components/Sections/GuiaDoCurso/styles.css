@@ -1,0 +1,49 @@
+#guia-do-curso {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 40px;
+  min-height: 200px;
+  width: 100%;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background: var(--primary-color);
+  
+}
+#guia-do-curso h1{
+  color: var(--text-color-light);
+}
+#guia-do-curso p{
+  margin: 10px auto;
+  color: var(--text-color-light);
+}
+#guia-do-curso .container-button {
+  max-width: 890px;
+  width: 300px;
+}
+
+@media only screen and (max-width: 425px) {
+  #guia-do-curso{
+    padding: 20px;
+  }
+
+  #guia-do-curso .button {
+    min-width: 90%;
+  }
+
+  #guia-do-curso h1{
+    font-size: 1.5rem;
+  }
+  #guia-do-curso p{
+    margin: 10px auto;
+  }
+  
+}

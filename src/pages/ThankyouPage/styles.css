@@ -1,0 +1,38 @@
+#thankyou-page{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: var(--primary-color);
+  min-height: 84vh;
+  margin: 0 auto;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#thankyou-page .thankyou-page-container {
+  max-width: 780px;
+  background-color: var(--primary-color);
+  padding: 20px;
+  
+  text-align: center;
+}
+
+#thankyou-page h2{
+  color: var(--text-color-light);
+  font-size: 3rem;
+}
+
+#thankyou-page p{
+  margin: 20px auto;
+  font-size: 1.2rem;
+  color: var(--text-color-light);
+}
+
+#thankyou-page .button {
+  min-width: 300px;
+  margin: 60px auto;
+}

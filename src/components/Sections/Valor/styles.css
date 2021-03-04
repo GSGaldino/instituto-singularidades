@@ -1,0 +1,50 @@
+#valor {
+  text-align: center;
+  padding: 25px;
+}
+
+#valor .box{
+  text-align: center;
+  display: block;
+  margin: 10px auto;
+  background: var(--tertiary-color);
+  padding: 20px;
+  border-radius: 6px;
+  margin: 20px auto;
+}
+
+#valor .box p{
+  font-weight: 500;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#valor .box h2{
+  color: var(--title-color-2);
+  font-size: 1.8rem;
+}
+#valor .box h3{
+  color: var(--text-color-light);
+  font-size: 1.5rem;
+  padding: 0px;
+}
+#valor .box .btn{
+  margin: 10px auto;
+}
+
+#valor .box span {
+  font-size: 14px;
+  margin: 10px auto;
+}
+
+#valor .box a {
+  background-color: var(--primary-color);
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+@media screen and (min-width: 800px){
+  #valor .box{
+    max-width: 480px;
+  }
+}

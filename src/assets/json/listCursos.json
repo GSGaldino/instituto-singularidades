@@ -1,0 +1,79 @@
+{
+  "Cursos": [
+    {
+      "id": "1",
+      "name": "Venda Consultiva"
+    },
+    {
+      "id": "2",
+      "name": "Inovação Desruptiva"
+    },
+    {
+      "id": "3",
+      "name": "Gestão Exponencial"
+    },
+    {
+      "id": "4",
+      "name": "Inovação no Agribusiness"
+    },
+    {
+      "id": "5",
+      "name": "Curso de teste"
+    }
+  ],
+  "Professores": [
+    {
+      "id": "01",
+      "name": "Pedro Waengertner",
+      "img": ""
+    },
+    {
+      "id": "02",
+      "name": "Sulivan Santiago",
+      "img": ""
+    },
+    {
+      "id": "03",
+      "name": "Victor Navarrete",
+      "img": ""
+    }
+  ],
+  "Areas": [
+    {
+      "id": "01",
+      "name": "Filosofia",
+      "Cursos": [
+        1,
+        3
+      ],
+      "Professores": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Tecnologia",
+      "Professores": [
+        1,
+        3
+      ],
+      "Cursos": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Cursos",
+      "Cursos": [
+        1,
+        2
+      ],
+      "Professores": [
+        1,
+        3
+      ]
+    }
+  ]
+}
