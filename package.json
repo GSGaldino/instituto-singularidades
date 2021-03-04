@@ -50,7 +50,6 @@
     "coveralls": "^3.0.0",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
-    "jest": "^26.6.3",
     "jest-enzyme": "^4.2.0",
     "react-test-renderer": "^16.2.0",
     "redux-mock-store": "^1.5.1"
@@ -73,6 +72,18 @@
     "coverageReporters": [
       "text",
       "lcov"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
     ]
   }
 }
